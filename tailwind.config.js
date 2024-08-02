@@ -8,11 +8,10 @@ module.exports = {
     './src/**/*.{js,jsx}',],
   theme: {
     extend: {
-      fontFamily: {
-        poppins: ['"Poppins"', 'sans-serif'],
-      },
     },
   },
-  plugins: [tailwindAnimatePlugin],
+  plugins: [
+    require('tailwindcss-animate'),
+  ],
 }
 
