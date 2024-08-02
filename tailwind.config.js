@@ -1,9 +1,18 @@
+import tailwindAnimatePlugin from 'tailwindcss-animate';
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{js,jsx,ts,tsx}",],
+  content: ['./pages/**/*.{js,jsx}',
+    './components/**/*.{js,jsx}',
+    './app/**/*.{js,jsx}',
+    './src/**/*.{js,jsx}',],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        poppins: ['"Poppins"', 'sans-serif'],
+      },
+    },
   },
-  plugins: [],
+  plugins: [tailwindAnimatePlugin],
 }
 
