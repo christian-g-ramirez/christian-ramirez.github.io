@@ -5,11 +5,11 @@ const Header = () => {
     console.log("Header component rendered");
 
   return (
-    <nav className="bg-gray-800 text-black shadow-lg">
-      <div className="container mx-auto px-4 py-2 flex justify-between items-center">
-        <Link to="/" className="text-xl font-bold">Mi Portafolio</Link>
-        <div className="space-x-4">
-          <Link to="/" className="hover:text-gray-400">Inicio</Link>
+    <nav className="bg-black text-white font-bold shadow-lg">
+      <div className="container mx-auto px-4 py-6 flex justify-between items-center">
+        <Link to="/" clLinkssName="text-5x1 font-bold">Mi Portafolio</Link>
+        <div className="space-x-32 text-lg">
+          <Link to="/" className="hover:text-gray-400">Sobre mi</Link>
           <Link to="/projects" className="hover:text-gray-400">Proyectos</Link>
           <Link to="/contact" className="hover:text-gray-400">Contacto</Link>
         </div>
