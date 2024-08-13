@@ -1,21 +1,17 @@
 import React from 'react';
-import Header from './components/header';
+import Header from './components/Header';
 import './App.css';
 import Home from './pages/Home';
-import Projects from './pages/Projects';
-import Contact from './pages/Contact';
-import { Route, Routes } from 'react-router-dom';
-
+import StarField from './components/StarField';
+import ShootingStarField from './components/ShootingStarField';
 
 const App = () => {
   return (
-    <div>
+    <div className="relative min-h-screen bg-gradient-blue-night-to-sunset">
+      <StarField numStars={50} />
+      <ShootingStarField numStars={150} />
       <Header />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/contact" element={<Contact />} />
-      </Routes>
+      <Home />
     </div>
   );
 };
