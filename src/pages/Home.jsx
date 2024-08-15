@@ -26,7 +26,7 @@ const Home = () => {
       </section>
       
       {/* Sección "Contacto" */}
-      <section id="contact" className="flex items-center justify-center">
+      <section id="contact" className=" max-h-[400px] flex items-center justify-center">
         <Contact />
       </section>
     </div>

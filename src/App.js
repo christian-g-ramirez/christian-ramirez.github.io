@@ -8,8 +8,8 @@ import ShootingStarField from './components/ShootingStarField';
 const App = () => {
   return (
     <div className="relative min-h-screen bg-gradient-blue-night-to-sunset">
-      <StarField numStars={50} />
-      <ShootingStarField numStars={150} />
+      <StarField numStars={150} />
+      <ShootingStarField numStars={350} />
       <Header />
       <Home />
     </div>
