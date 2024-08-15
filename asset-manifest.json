@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07a517dc.css",
+    "main.js": "/static/js/main.d14c164c.js",
+    "static/media/seccion2mugica.png": "/static/media/seccion2mugica.27442be63859c18bb5de.png",
+    "static/media/seccion3mugica.png": "/static/media/seccion3mugica.341128471da1bfa879f0.png",
+    "static/media/seccion4mugica.png": "/static/media/seccion4mugica.2055f9e5ae4cf837e594.png",
+    "static/media/pagina7demayo.png": "/static/media/pagina7demayo.a962993a883ea5962a40.png",
+    "static/media/demayoseccion3.png": "/static/media/demayoseccion3.7b4eb70c6c101bebbc2d.png",
+    "static/media/mugica.png": "/static/media/mugica.19661049fdfc8e5ba079.png",
+    "static/media/seccion5mugica.png": "/static/media/seccion5mugica.a5d35050f9d398dc2f5c.png",
+    "static/media/seccion6mugica.png": "/static/media/seccion6mugica.f8ebb6946c701995964b.png",
+    "static/media/seccion2.png": "/static/media/seccion2.023486937e5fdf8ec10c.png",
+    "static/media/demayoseccion5.png": "/static/media/demayoseccion5.6e4bf82160a9efc7e2e7.png",
+    "static/media/demayoseccion4.png": "/static/media/demayoseccion4.9d0acf1805fd30edcd31.png",
+    "static/media/ceciliaHome.png": "/static/media/ceciliaHome.8a4dce8b54f691d77d25.png",
+    "static/media/ProsignPerfil.png": "/static/media/ProsignPerfil.e48b56b14f5565d3b88f.png",
+    "static/media/ceciliaMeeting.png": "/static/media/ceciliaMeeting.d549a9013952fd685cc2.png",
+    "static/media/PharmaStockDetected1.jpeg": "/static/media/PharmaStockDetected1.436ec185baf9cb3da7e4.jpeg",
+    "static/media/ceciliaLogin.png": "/static/media/ceciliaLogin.966c68836f69d9c7d23a.png",
+    "static/media/ceciliaCost.png": "/static/media/ceciliaCost.533f57cea241c7ce387e.png",
+    "static/media/Prosing.jpg": "/static/media/Prosing.56f51493b6d5d5ec26de.jpg",
+    "static/media/ceciliaTopic.png": "/static/media/ceciliaTopic.d30133ca794a5bbed178.png",
+    "static/media/ProsignChat.jpg": "/static/media/ProsignChat.6b826c3c312e39eb09f2.jpg",
+    "static/media/PharmaStockHome1.jpg": "/static/media/PharmaStockHome1.ebd5b76fe0878e6a8881.jpg",
+    "static/media/PharmaStockHome.jpg": "/static/media/PharmaStockHome.cc1dfee4b30db0db9557.jpg",
+    "index.html": "/index.html",
+    "main.07a517dc.css.map": "/static/css/main.07a517dc.css.map",
+    "main.d14c164c.js.map": "/static/js/main.d14c164c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a517dc.css",
+    "static/js/main.d14c164c.js"
+  ]
+}
